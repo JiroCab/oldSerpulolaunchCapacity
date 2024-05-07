@@ -1,0 +1,1 @@
+Planets.serpulo.launchCapacityMultiplier = 1;

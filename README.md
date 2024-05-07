@@ -1,2 +1,3 @@
-# oldSerpulolaunchCapacity
-A freind ask me to make this, thought to share it
+
+A friend asked me to make this, thought to share it
+yes
