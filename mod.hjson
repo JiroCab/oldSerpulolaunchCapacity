@@ -3,8 +3,7 @@ displayName: "Old Serpulo Launch Capacity"
 author: "RushieWashie"
 description: "Launching with max items! on serpulo...."
 subtitle:"so full hmmp~"
-version: "1"
+version: "1.0"
 minGameVersion: "136"
 dependencies: [ ]
 hidden: true
-hideBrowser: false
